@@ -1,0 +1,6 @@
+I set up my development environment using VS Code, Git, GitHub, and Node.js.
+At first, I faced a problem while running npm commands because PowerShell blocked the scripts.
+I also had some difficulty configuring Git and connecting my local repository to GitHub.
+I solved the npm issue by changing the PowerShell execution policy.
+Then I configured Git properly and successfully pushed my project to GitHub.
+Now my development environment is ready for programming and future activities.
